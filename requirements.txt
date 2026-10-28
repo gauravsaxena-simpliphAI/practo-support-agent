@@ -1,0 +1,15 @@
+# Practo Domain Support Agent - Requirements
+crewai>=1.15.17
+crewai-core>=1.15.17
+chromadb>=1.1.1
+sentence-transformers>=5.5.1
+fastapi>=0.115.0
+uvicorn>=0.30.0
+autogen-agentchat>=0.7.5
+autogen-core>=0.7.5
+autogen-ext>=0.7.5
+pydantic>=2.10.0
+langchain-core>=1.0.0
+numpy>=1.26.0
+httpx>=0.28.0
+websockets>=13.0
